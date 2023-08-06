@@ -23,7 +23,9 @@ body {
   table {
     width: 100%;
     border-collapse: collapse;
-  }
+
+}
+
   
   td {
     padding: 10px;
@@ -59,3 +61,4 @@ body {
   object-fit: contain;
   border-radius: 8px;
 }
+
